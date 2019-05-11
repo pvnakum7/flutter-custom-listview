@@ -1,0 +1,4 @@
+#Tue May 07 09:34:36 IST 2019
+base.0=/Users/imagine/FlutterDemo/flutter_custome_listview/build/app/intermediates/transforms/dexMerger/debug/0
+path.0=classes.dex
+renamed.0=classes.dex
